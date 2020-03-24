@@ -5,5 +5,5 @@ class Student
   end 
   
   def raise_hand
-    "Pick me!"
+  put  "Pick me!"
 end 
