@@ -15,6 +15,16 @@ class ChattyStudent < Student
      super
      super
      super 
-     10.times{"Pick me!"}
+     "Pick me!"
+     "Pick me!"
+     "Pick me!"
+     "Pick me!"
+     "Pick me!"
+     "Pick me!"
+     "Pick me!"
+     "Pick me!"
+     "Pick me!"
+     "Pick me!"
+     
  end 
  end 
